@@ -2,7 +2,7 @@
 _This project has been created as part of the 42 curriculum by nfakih._
 
 # Description
-This project is an introduction to computer networking. The first few levels focus on calculations and understanding mask vs IP and how they're used. Next it is about configuring IP addresses and masks to fullfill a pre set list of goals.
+This project is an introduction to computer networking. The first few levels focus on mask and IP calculations, as well as understanding mask vs IP and how they're used. Next it is about configuring IP addresses and masks to fullfill a pre set list of goals. In addition, switches and routers are introduced throughout the levels.
 
 # Instructions
 1. Download the files from intra
@@ -26,4 +26,4 @@ CIDR:
 https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing
 
 # AI Usage
-AI was mainly used for debugging. Although there are many resources to study from, they don't translate too well to practice, therefore AI was very helpful in understanding what's right and what's wrong in the beggining stages of the project.
+AI was mainly used for debugging and deeper understanding of specific concepts. Although there are many resources to study from, they don't translate too well to this practice, therefore AI was very helpful in understanding what's right and what's wrong in the beggining stages of the project.
