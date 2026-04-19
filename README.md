@@ -1,4 +1,4 @@
-# net_practice
+[# net_practice
 _This project has been created as part of the 42 curriculum by nfakih._
 
 # Description
@@ -26,4 +26,5 @@ CIDR:
 https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing
 
 # AI Usage
-AI was mainly used for debugging and deeper understanding of specific concepts. Although there are many resources to study from, they don't translate too well to this practice, therefore AI was very helpful in understanding what's right and what's wrong in the beggining stages of the project.
+AI was mainly used for debugging and deeper understanding of specific concepts. Although there are many resources to study from, they don't translate too well to this practice, therefore AI was very helpful in understanding what's right and what's wrong in the beggining stages of the project.](https://github.com/fakihnourzahraa/net_practice/edit/main/README.md)
+*Made with lots coffee and debugging at 42 Beirut*
